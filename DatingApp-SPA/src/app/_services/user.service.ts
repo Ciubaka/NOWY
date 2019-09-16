@@ -12,7 +12,7 @@ import { Observable } from 'rxjs';
 
 export class UserService {
 
-  //baseUrl = baseUrl = 'http://localhost:5000/api/users/'; -> jeden
+  //baseUrl = baseUrl = 'http://localhost:5000/api/users/'; --> jeden
   baseUrl = environment.apiUrl;
 
 
